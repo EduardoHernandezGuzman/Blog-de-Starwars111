@@ -1,7 +1,7 @@
-# "Blog de Starwars" de EduardoHernandezGuzman
+# "Build a StarWars REST API" de EduardoHernandezGuzman
 
 ## Un poco de información
-Decimosexto proyecto realizado en el bootcamp de 4GEEKSACADEMY.   
+Vigesimoprimer proyecto realizado en el bootcamp de 4GEEKSACADEMY.   
 
 ## ¿Cómo puedo ejecutarlo?
 
